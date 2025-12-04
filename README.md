@@ -13,3 +13,5 @@ This project is a simple OOP-based banking system created for practicing classes
 - Python 3
 
 ## How to Run
+```bash
+python BankAccount.py
